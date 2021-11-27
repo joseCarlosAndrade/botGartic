@@ -3,8 +3,8 @@ from google_images_search import GoogleImagesSearch
 #import cv2
 import time
 
-# api credential = AIzaSyA_K5B5GLp3sNKMaxPyxIscDzkRXsBIdnM
-# search engine = 0980f3eff5753f0ab
+# api credential = CREDENTIAL
+# search engine = CX
 
 #classe de fato
 class Imagens:
